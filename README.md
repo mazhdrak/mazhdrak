@@ -1,6 +1,6 @@
 # Rumen Mazhdrakov: Site Reliability Engineer
 
-SRE with 6 years in cloud operations and reliability on AWS. AWS Certified Solutions Architect.
+SRE with 6 years in cloud operations and reliability on AWS (3 years CloudOps, 3 years SRE).
 I build platforms that page people for real user impact, and I write down what we learn when they break.
 
 **Stack:** AWS · Kubernetes / EKS · Terraform · Prometheus · Grafana · Splunk · Dynatrace · Jenkins · Bitbucket · PostgreSQL
