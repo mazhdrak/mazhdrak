@@ -16,4 +16,6 @@ with the predictions that turned out wrong.
 
 Observability and SLO setup, Kubernetes reliability reviews, CI/CD. Async, fixed scope.
 
+Fixed-price offer: **[Prometheus and Grafana SLO alerts for your Kubernetes services](https://www.upwork.com/services/product/development-it-prometheus-and-grafana-slo-alerts-for-your-kubernetes-services-2107805179175322770)**, from $250.
+
 [Upwork](https://www.upwork.com/freelancers/~01e5b4dc454b87344e) · [LinkedIn](https://www.linkedin.com/in/rumen-mazhdrakov-a6334858/)
